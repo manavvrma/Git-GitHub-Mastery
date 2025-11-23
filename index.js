@@ -5,3 +5,6 @@ const hobby = "Art";
 function isAbove18() {
   return age >= 18;
 }
+function newFunction() {
+  console.log("hey i am a new function");
+}
