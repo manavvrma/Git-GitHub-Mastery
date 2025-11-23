@@ -15,4 +15,5 @@ function newFunction() {
 
 function newFeat() {
   console.log("this is a new feature");
+  console.log("this is a new feature 1.2");
 }
