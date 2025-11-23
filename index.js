@@ -2,6 +2,10 @@ const age = 22;
 const name = "Manav Arora";
 const hobby = "Gaming";
 
+function sayName() {
+  console.log(name);
+}
+
 function isAbove18() {
   return age >= 18;
 }
