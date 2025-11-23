@@ -18,3 +18,11 @@ function newFeat() {
   console.log("this is a new feature 1.2");
   console.log("this is a new feature-b");
 }
+
+// Branch Name Convention
+
+//example git branch "feat/add-chat-support"
+//example git branch "feat/openai-integration"
+//example git branch "bug/login-not-working"
+
+// types - wip, feat, bug, junk
