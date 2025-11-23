@@ -12,3 +12,7 @@ function isAbove18() {
 function newFunction() {
   console.log("hey i am a new function");
 }
+
+function newFeat() {
+  console.log("this is a new feature");
+}
