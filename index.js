@@ -1,6 +1,6 @@
-const age = 24;
-const name = "Manav Verma";
-const hobby = "Art";
+const age = 22;
+const name = "Manav Arora";
+const hobby = "Gaming";
 
 function isAbove18() {
   return age >= 18;
